@@ -203,7 +203,6 @@ export default function Game() {
       <div className="game-info">
         <ol>{moves}</ol>
       </div>
-	  /*<Analytics /> */
     </div>
   );
 }
